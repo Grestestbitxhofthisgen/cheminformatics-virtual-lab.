@@ -1,0 +1,6 @@
+streamlit>=1.50
+rdkit
+pandas
+numpy
+plotly
+py3Dmol
